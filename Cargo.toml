@@ -9,6 +9,6 @@ edition = "2021"
 debug = []
 
 [dependencies]
-virt-hid = { workspace = true }
+virt-hid = { path = "virt-hid" }
 nom = "7"
 clap = { version = "4.0.15", features = ["derive"] }
