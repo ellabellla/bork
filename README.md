@@ -124,3 +124,7 @@ Expressions are values combined with operators.
 |Set|```<= ; >```|```<=x;"Hello, world!">```| Set a variable equal to an expression or literal. Variables are strongly typed.|
 |Literal|```" "```| ```"hello"```| A literal can be used as a tag.|
 |Expression|```' '```|```'10+3'```| An expression. Operators and variables can be used. |
+
+
+## License
+This software is provided under the MIT license. Click [here](./LICENSE) to view.
